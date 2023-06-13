@@ -4,9 +4,7 @@
  ブキ名を入力するとサブとスペシャルを表示します。
  
 # DEMO
- 
-<img width="299" alt="スクリーンショット 2023-06-05 153257" src="https://github.com/sou-suzuki-6x/Splatoon3_Chatbot/assets/134995574/2788862f-f47c-4f86-bd46-25854d547138">
-
+<img width="299" alt="スクリーンショット 2023-06-05 153257" src="https://github.com/sou004002/Splatoon3_ChatBot/assets/92064945/d5d80d5c-418c-4eea-97f8-f38101838929">
 
 
  
